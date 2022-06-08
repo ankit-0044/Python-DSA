@@ -27,6 +27,6 @@ my_list =[1,3,5,7,9,11,45]
 result1 = binary_search(my_list,11)
 result2 = binary_search(my_list,-1)
 
-# printing return(result1, result2) with f-string formating
+# printing return(result1, result2) with f-string formatting
 print(f"Element 11 is at position: {result1}")
 print(f"Element -1 is at position: {result2}")
